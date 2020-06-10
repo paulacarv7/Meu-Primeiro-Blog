@@ -1,0 +1,28 @@
+body {
+  background: #fff8dc;
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+header {
+  margin-top: 250px;
+}
+
+h1 {
+  color: #dc143c;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: #b8860b;
+  font-family: inherit;
+}
+
+p {
+  color: #0000cd;
+  font-size: 20px;
+}
+
+footer {
+  margin-bottom: 25px;
+}
